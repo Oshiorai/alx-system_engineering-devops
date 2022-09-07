@@ -1,1 +1,2 @@
-0x03. Shell, init files, variables and expansions
+My first shell init files,variables and expansion
+
